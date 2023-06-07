@@ -7,9 +7,13 @@ This project also includes an API created with json-server. This api contains an
 
 ### Using the API
 In order to use the API, open the terminal inside of the /fake-api folder and write 
+1. We open the API folder 
+```cd /fake-api```
+2. Make sure json-server is installed
 ```
 npm install -g json-server
 ```
+3. This indicates that the API is based on the folder db.json
 ```
 json-server --watch db.json
 ```
