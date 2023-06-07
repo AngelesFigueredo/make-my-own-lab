@@ -1,0 +1,52 @@
+{
+  "problems": [
+    {
+      "name": "Birch and Swinnerton-Dyer Conjecture",
+      "status": "Unsolved",
+      "prizeMoney": "$1,000,000",
+      "fieldOfMathematics": "Number Theory",
+      "introducedBy": "John Birch and Peter Swinnerton-Dyer",
+      "id": 1
+    },
+    {
+      "id": 3,
+      "name": "Navier-Stokes Existence and Smoothness",
+      "status": "Unsolved",
+      "prizeMoney": "$1,000,000",
+      "fieldOfMathematics": "Partial Differential Equations",
+      "introducedBy": "Claude-Louis Navier and George Gabriel Stokes"
+    },
+    {
+      "id": 4,
+      "name": "P versus NP Problem",
+      "status": "Unsolved",
+      "prizeMoney": "$1,000,000",
+      "fieldOfMathematics": "Computer Science",
+      "introducedBy": "Stephen Cook and Leonid Levin"
+    },
+    {
+      "id": 5,
+      "name": "Riemann Hypothesis",
+      "status": "Unsolved",
+      "prizeMoney": "$1,000,000",
+      "fieldOfMathematics": "Number Theory",
+      "introducedBy": "Bernhard Riemann"
+    },
+    {
+      "id": 6,
+      "name": "Yang-Mills Existence and Mass Gap",
+      "status": "Unsolved",
+      "prizeMoney": "$1,000,000",
+      "fieldOfMathematics": "Quantum Field Theory",
+      "introducedBy": "Chen Ning Yang and Robert L. Mills"
+    },
+    {
+      "id": 7,
+      "name": "Poincaré Conjecture",
+      "status": "Solved",
+      "prizeMoney": "$1,000,000",
+      "fieldOfMathematics": "Topology",
+      "introducedBy": "Henri Poincaré"
+    }
+  ]
+}
